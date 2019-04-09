@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder_classwork", "StringBuilder\StringBuilder_classwork.csproj", "{79E89F0C-BAC1-4CFC-97F5-E035C022C976}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewAssembly", "NewAssembly\NewAssembly.csproj", "{0843DC8A-E43D-465A-A6E3-751FACC37FA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{79E89F0C-BAC1-4CFC-97F5-E035C022C976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79E89F0C-BAC1-4CFC-97F5-E035C022C976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79E89F0C-BAC1-4CFC-97F5-E035C022C976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0843DC8A-E43D-465A-A6E3-751FACC37FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0843DC8A-E43D-465A-A6E3-751FACC37FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0843DC8A-E43D-465A-A6E3-751FACC37FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0843DC8A-E43D-465A-A6E3-751FACC37FA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
