@@ -20,6 +20,8 @@ namespace Neighbor
             Console.WriteLine("Enter a flat number, please: ");
             var flatNumber = Convert.ToInt32(Console.ReadLine());
 
+            neighbors.Where
+
             foreach (var item in neighbors)
             {
                 if (item.FlatNumber != flatNumber) continue;
